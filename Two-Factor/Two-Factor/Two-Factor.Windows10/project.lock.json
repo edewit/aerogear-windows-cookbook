@@ -3,7 +3,7 @@
   "version": 1,
   "targets": {
     "UAP,Version=v10.0": {
-      "aerogear-windows-otp/0.0.1": {
+      "aerogear-windows-otp/0.0.2": {
         "dependencies": {
           "BouncyCastle-PCL": "[1.0.0.6, )"
         },
@@ -1609,7 +1609,7 @@
       }
     },
     "UAP,Version=v10.0/win10-arm": {
-      "aerogear-windows-otp/0.0.1": {
+      "aerogear-windows-otp/0.0.2": {
         "dependencies": {
           "BouncyCastle-PCL": "[1.0.0.6, )"
         },
@@ -3305,7 +3305,7 @@
       }
     },
     "UAP,Version=v10.0/win10-arm-aot": {
-      "aerogear-windows-otp/0.0.1": {
+      "aerogear-windows-otp/0.0.2": {
         "dependencies": {
           "BouncyCastle-PCL": "[1.0.0.6, )"
         },
@@ -4973,7 +4973,7 @@
       }
     },
     "UAP,Version=v10.0/win10-x86": {
-      "aerogear-windows-otp/0.0.1": {
+      "aerogear-windows-otp/0.0.2": {
         "dependencies": {
           "BouncyCastle-PCL": "[1.0.0.6, )"
         },
@@ -6674,7 +6674,7 @@
       }
     },
     "UAP,Version=v10.0/win10-x86-aot": {
-      "aerogear-windows-otp/0.0.1": {
+      "aerogear-windows-otp/0.0.2": {
         "dependencies": {
           "BouncyCastle-PCL": "[1.0.0.6, )"
         },
@@ -8342,7 +8342,7 @@
       }
     },
     "UAP,Version=v10.0/win10-x64": {
-      "aerogear-windows-otp/0.0.1": {
+      "aerogear-windows-otp/0.0.2": {
         "dependencies": {
           "BouncyCastle-PCL": "[1.0.0.6, )"
         },
@@ -10043,7 +10043,7 @@
       }
     },
     "UAP,Version=v10.0/win10-x64-aot": {
-      "aerogear-windows-otp/0.0.1": {
+      "aerogear-windows-otp/0.0.2": {
         "dependencies": {
           "BouncyCastle-PCL": "[1.0.0.6, )"
         },
@@ -11712,14 +11712,14 @@
     }
   },
   "libraries": {
-    "aerogear-windows-otp/0.0.1": {
-      "sha512": "UeZ9u+BlbW48aiX5QOF9iNF4DAcfXJ1V8z3dwXzK6oOH6nmq47WSS6NcFwuo1aYDfGgRjDJGzChTKK5ut9j+2w==",
+    "aerogear-windows-otp/0.0.2": {
+      "sha512": "OJ1XfYAZUtTeumgWHFX+qRik/JmDb48HyYdklKf9EE7tXfOJEUeRWRpbQOV+wgtVnCsfeaqcLOjxBfYYW5EgVA==",
       "type": "Package",
       "files": [
         "_rels/.rels",
         "aerogear-windows-otp.nuspec",
         "lib/portable-net46+win8+wp8+wpa81/aerogear-windows-otp.dll",
-        "package/services/metadata/core-properties/b00a271a9d32413ea29929313644fe3b.psmdcp",
+        "package/services/metadata/core-properties/a3290173e7634fe59cb0c50f0a32d10b.psmdcp",
         "[Content_Types].xml"
       ]
     },
@@ -15310,7 +15310,7 @@
   },
   "projectFileDependencyGroups": {
     "": [
-      "aerogear-windows-otp >= 0.0.1",
+      "aerogear-windows-otp >= 0.0.2",
       "BouncyCastle-PCL >= 1.0.0.6",
       "Microsoft.ApplicationInsights >= 1.0.0",
       "Microsoft.ApplicationInsights.PersistenceChannel >= 1.0.0",

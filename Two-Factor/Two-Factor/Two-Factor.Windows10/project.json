@@ -1,6 +1,6 @@
 ﻿{
   "dependencies": {
-    "aerogear-windows-otp": "0.0.1",
+    "aerogear-windows-otp": "0.0.2",
     "BouncyCastle-PCL": "1.0.0.6",
     "Microsoft.ApplicationInsights": "1.0.0",
     "Microsoft.ApplicationInsights.PersistenceChannel": "1.0.0",

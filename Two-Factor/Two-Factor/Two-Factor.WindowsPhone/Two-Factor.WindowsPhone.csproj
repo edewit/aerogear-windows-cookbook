@@ -101,7 +101,7 @@
   </ItemGroup>
   <ItemGroup>
     <Reference Include="aerogear-windows-otp, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\aerogear-windows-otp.0.0.1\lib\portable-net46+win8+wp8+wpa81\aerogear-windows-otp.dll</HintPath>
+      <HintPath>..\..\packages\aerogear-windows-otp.0.0.2\lib\portable-net46+win8+wp8+wpa81\aerogear-windows-otp.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="bouncy_castle_hmac_sha_pcl, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">

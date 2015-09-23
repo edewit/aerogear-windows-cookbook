@@ -9,10 +9,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Two-Factor.WindowsPhone", "
 EndProject
 Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Two-Factor.Shared", "Two-Factor\Two-Factor.Shared\Two-Factor.Shared.shproj", "{ECE874BE-D6C5-402E-A343-9A43C56A1E0E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Two-Factor.Windows10", "Two-Factor\Two-Factor.Windows10\Two-Factor.Windows10.csproj", "{77CB2B76-0C5A-462F-843D-412401C9BCA2}"
+EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		Two-Factor\Two-Factor.Shared\Two-Factor.Shared.projitems*{ece874be-d6c5-402e-a343-9a43c56a1e0e}*SharedItemsImports = 13
 		Two-Factor\Two-Factor.Shared\Two-Factor.Shared.projitems*{8dd95a24-69bb-4ac6-a865-54152e911403}*SharedItemsImports = 4
+		Two-Factor\Two-Factor.Shared\Two-Factor.Shared.projitems*{77cb2b76-0c5a-462f-843d-412401c9bca2}*SharedItemsImports = 4
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -49,6 +52,26 @@ Global
 		{8DD95A24-69BB-4AC6-A865-54152E911403}.Release|x86.ActiveCfg = Release|x86
 		{8DD95A24-69BB-4AC6-A865-54152E911403}.Release|x86.Build.0 = Release|x86
 		{8DD95A24-69BB-4AC6-A865-54152E911403}.Release|x86.Deploy.0 = Release|x86
+		{77CB2B76-0C5A-462F-843D-412401C9BCA2}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{77CB2B76-0C5A-462F-843D-412401C9BCA2}.Debug|ARM.ActiveCfg = Debug|ARM
+		{77CB2B76-0C5A-462F-843D-412401C9BCA2}.Debug|ARM.Build.0 = Debug|ARM
+		{77CB2B76-0C5A-462F-843D-412401C9BCA2}.Debug|ARM.Deploy.0 = Debug|ARM
+		{77CB2B76-0C5A-462F-843D-412401C9BCA2}.Debug|x64.ActiveCfg = Debug|x64
+		{77CB2B76-0C5A-462F-843D-412401C9BCA2}.Debug|x64.Build.0 = Debug|x64
+		{77CB2B76-0C5A-462F-843D-412401C9BCA2}.Debug|x64.Deploy.0 = Debug|x64
+		{77CB2B76-0C5A-462F-843D-412401C9BCA2}.Debug|x86.ActiveCfg = Debug|x86
+		{77CB2B76-0C5A-462F-843D-412401C9BCA2}.Debug|x86.Build.0 = Debug|x86
+		{77CB2B76-0C5A-462F-843D-412401C9BCA2}.Debug|x86.Deploy.0 = Debug|x86
+		{77CB2B76-0C5A-462F-843D-412401C9BCA2}.Release|Any CPU.ActiveCfg = Release|x86
+		{77CB2B76-0C5A-462F-843D-412401C9BCA2}.Release|ARM.ActiveCfg = Release|ARM
+		{77CB2B76-0C5A-462F-843D-412401C9BCA2}.Release|ARM.Build.0 = Release|ARM
+		{77CB2B76-0C5A-462F-843D-412401C9BCA2}.Release|ARM.Deploy.0 = Release|ARM
+		{77CB2B76-0C5A-462F-843D-412401C9BCA2}.Release|x64.ActiveCfg = Release|x64
+		{77CB2B76-0C5A-462F-843D-412401C9BCA2}.Release|x64.Build.0 = Release|x64
+		{77CB2B76-0C5A-462F-843D-412401C9BCA2}.Release|x64.Deploy.0 = Release|x64
+		{77CB2B76-0C5A-462F-843D-412401C9BCA2}.Release|x86.ActiveCfg = Release|x86
+		{77CB2B76-0C5A-462F-843D-412401C9BCA2}.Release|x86.Build.0 = Release|x86
+		{77CB2B76-0C5A-462F-843D-412401C9BCA2}.Release|x86.Deploy.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -56,5 +79,6 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{8DD95A24-69BB-4AC6-A865-54152E911403} = {12B0A57E-2D13-4BF1-AE70-2BFEC1EF9371}
 		{ECE874BE-D6C5-402E-A343-9A43C56A1E0E} = {12B0A57E-2D13-4BF1-AE70-2BFEC1EF9371}
+		{77CB2B76-0C5A-462F-843D-412401C9BCA2} = {12B0A57E-2D13-4BF1-AE70-2BFEC1EF9371}
 	EndGlobalSection
 EndGlobal
